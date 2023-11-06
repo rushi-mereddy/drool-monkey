@@ -1,0 +1,48 @@
+.bg-yellow{
+    background-color: #FEC00F;
+}
+
+.bg-green{
+    background-color: #1FB67E;
+}
+
+.bg-voilet{
+    background-color: #8E76FF;
+}
+
+.bg-blue{
+    background-color: #68C0DF;
+}
+
+.course-card{
+    height: 300px;
+    min-width: 360px;
+}
+
+
+.success-card{
+    height: 200px;
+    min-width: 360px;
+}
+
+
+.carousel-control-prev-icon{
+    transform: unset !important;
+}
+
+.carousel-control-next{
+    margin-right: 70px;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    position: unset !important;
+    float: right !important;
+    width: unset !important;
+    margin-top: -31px;
+}
+
+
+.auto-padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
