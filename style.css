@@ -109,3 +109,9 @@ body{
     margin-top: 120px;
     width: 200px;
 }
+
+@media  only screen and (max-width: 500px) {
+    .no-mobile{
+        display: none;
+    }
+}
