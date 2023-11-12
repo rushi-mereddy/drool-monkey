@@ -8,16 +8,24 @@
 
 .bg-voilet{
     background-color: #8E76FF;
+    color: white;
 }
 
 .bg-blue{
     background-color: #68C0DF;
+    color: white;
 }
 
 
 .course-card{
     height: 300px;
     min-width: 360px;
+    padding: 10px;  
+}
+
+.course-duration{
+    margin-bottom: 0px;
+    font-size: 19px;
 }
 
 body{
@@ -98,7 +106,6 @@ body{
 }
 
 .success-stories-card-title{
-    bottom: 10px;
+    margin-top: 120px;
     width: 200px;
-    position: absolute;
 }
